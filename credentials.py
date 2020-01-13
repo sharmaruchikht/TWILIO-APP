@@ -1,4 +1,4 @@
-account_sid = 'AC0516aa75f377bc3606970ef9e97ef310'
-auth_token = '2af7a4bdcbd54cfb9dfe633190804ed4'
-my_cell = '+919953296669'
-my_twilio = '+14143774545'
+account_sid = 'getting your account_sid after signing up in twilio website.'
+auth_token = 'getting your account_token after signing up in twilio website.'
+my_cell = 'your current phone number which is used in signing up of twilio.'
+my_twilio = 'A external phone number given by twilio.'
